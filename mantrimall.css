@@ -1,0 +1,153 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #e1dcdc;
+}
+.header2 {
+  padding: 0.3rem;
+}
+
+.header {
+  width: 100%;
+  height: 6rem;
+  background-color: rgb(16, 131, 197);
+  border-radius: 10px;
+}
+.balance {
+  padding-top: 1rem;
+  margin-left: 0.4rem;
+  color: beige;
+}
+
+.down {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.8rem 0rem;
+}
+.btn {
+  padding: 0.4rem;
+  margin-left: 0.7rem;
+  border-radius: 4px;
+  border: none;
+}
+.btn1 {
+  background: rgb(25 199 25);
+  color: rgb(220, 226, 225);
+}
+.btn2 {
+  background-color: white;
+}
+.reright {
+  margin-right: 0.7rem;
+}
+
+/* box2 */
+
+.box2 {
+  width: 100%;
+  height: 3rem;
+  margin: 0rem 0rem 0.2rem;
+  background-color: white;
+  border-radius: 5px;
+  align-items: center;
+}
+.ank {
+  display: flex;
+  justify-content: space-between;
+}
+.nik {
+  color: rgb(19, 11, 3);
+  margin: auto;
+  padding: 0.8rem 0.9rem;
+}
+
+/*box3 */
+
+.box3 {
+  width: 100%;
+  height: 18rem;
+  background: rgb(242 231 231 / 20%);
+}
+
+.minibox3 {
+  display: flex;
+  justify-content: space-between;
+}
+.period {
+  font-size: 0.9rem;
+  margin: 0rem 1rem;
+}
+.peritext {
+  font-size: 1rem;
+}
+.coutext {
+  font-size: 1rem;
+}
+.countdown {
+  font-size: 0.9rem;
+  margin: 0rem 1rem;
+}
+.btn5 {
+  color: beige;
+  padding: 0.3rem 1.5rem;
+  margin: 1rem 0.1rem;
+  border-radius: 5px;
+}
+.red {
+  background: #f83030;
+}
+.blueviolet {
+  background: blueviolet;
+  /*padding: 0.4rem 1rem;*/
+}
+.green {
+  background: #19c719;
+  /*padding: 0.4rem 1rem;*/
+}
+.minibox4 {
+  padding: 0rem 0.8rem;
+  margin: 0rem 0.4rem;
+  border-radius: 0.9rem;
+  background-color: #afb0977d;
+}
+.peri {
+  margin: -1.1rem 1rem 1rem 1rem;
+  font-size: x-large;
+}
+.cdown {
+  margin: -1.1rem 1rem 1rem 1rem;
+  font-size: x-large;
+}
+.abhi {
+  padding-top: 1rem;
+}
+.nik:hover,
+.active {
+  border-bottom: 4px #1083c5 solid;
+  color: #1083c5;
+}
+.red1 {
+  padding: 0.5rem 1.7;
+}
+.green1 {
+  padding: 0.5rem 1.4;
+}
+.blue1 {
+  padding: 0.5rem 1.7rem;
+}
+
+/* box4 */
+
+.box4{
+  width: 100%;
+  height: 20rem;
+  background-color: rgb(206 209 212);
+  border-radius: 10px;
+  text-align: center;
+}
+.table1{
+  margin: auto;
+}
